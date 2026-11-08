@@ -192,3 +192,4 @@ different heading levels.
 - Model choice is configurable via `GROQ_MODEL`; `llama-3.3-70b-versatile` is the default
   because it follows structural instructions well.
 - No key, no plan. The app will tell you rather than fail silently.
+# cgtlx-icohort-ass-1
